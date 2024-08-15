@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    background-color: black;
+    /* height: 180px; */
+}
+.nav1{
+    width: 728px;
+    height: 90px;
+    margin: auto;
+    /* padding-top: 8px; */
+}
+.nav1 img{
+    width: 728px;
+    height: 90px;
+}
+.nav2{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: aqua; */
+    height: 80px;
+    width: 80vw;
+    margin: auto;
+}
+.nav2 li{
+    list-style-type: none;
+}
+
+.p1t{
+    font-size: 26px;
+    font-weight: 600;
+}
+.s2s1{
+    font-size: 16px;
+    font-weight: 500;
+    height: 60px;
+    /* background-color: aqua; */
+    text-align: left;
+}
+.s3s1{
+    font-size: 16px;
+    font-weight: 500;
+    width: 300px;
+    margin: auto;
+}
+.s3s2{
+    font-size: 12px;
+    /* background-color: aqua; */
+}
+
+.s2s2{
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+}
+
+/* .secma2 .col image{
+    height: 146px;
+    width: 195px;
+} */
+
+.cl2s3{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+}
+.cl2s4sm{
+    font-size: 12px;
+}
+
+.cl2s4{
+    text-align: left;
+}
+.colu5{
+    width: 400px;
+}
+.cl2b1{
+    background-color: orange;
+    color: white;
+    text-align: left;
+    width: 100px;
+}
+.cl2b2{
+    background-color: green;
+    color: white;
+    text-align: left;
+    width: 140px;
+}
+.cl2b3{
+    background-color: blue;
+    color: white;
+    width: 60px;
+    text-align: left;
+}
+.slm2{
+    background-color: rgb(64, 64, 125);
+    color: white;
+    text-align: left;
+    width: 160px;
+}
+.slm3{
+    text-align: left;
+    font-size: 10px;
+    font-weight: 700;
+}
+.lps13{
+    font-size: 12px;
+}
+.lps11{
+    color: red;
+    font-size: 12px;
+}
+.lps22{
+    font-weight: 700;
+}
+.lps21{
+    font-size: 12px;
+    color: skyblue;
+}
+.lps31{
+    font-size: 12px;
+    color: darkblue;
+}
+.simte1{
+    font-weight: 900;
+    font-size: 42px;
+    margin-left: 130px;
+}
+
+.lps2{
+    font-weight: 600;
+    font-size: 18px;
+}
+.lps1{
+    font-size: 10px;
+    color: white;
+    background-color: orange;
+    width: 100px;
+}
+.lps4{
+    font-size: 10px;
+    color: white;
+    background-color: orange;
+    width: 60px;
+}
+.lps3{
+    font-size: 10px;
+    color: white;
+    background-color: darkmagenta;
+    width: 50px;
+}
+.f1,.f2,.f3,.f4{
+    font-size: 10px;
+}
+.f1{
+    color: blue;
+}
+.f2{
+    color: purple;
+}
+.f3{
+    color: green;
+}
+.f4{
+    color: orange;
+}
+.fa1{
+    background-color: green;
+    font-size: 12px;
+}
+.fa2{
+    background-color: red;
+    font-size: 12px;
+}.fa3{
+    background-color: skyblue;
+    font-size: 12px;
+}.fa4{
+    background-color: yellow;
+    font-size: 12px;
+}
